@@ -60,7 +60,7 @@ Below is a list of all Junior Cybersecurity Analyst projects available in this r
 | :------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------------------------------- | :---------------------- |
 | | | |
 
-You can [click here](./junior-cybersecurity-analyst) to see more Junior Cybersecurity Analyst projects.
+You can click [here](./junior-cybersecurity-analyst) to see more Junior Cybersecurity Analyst projects.
 
 ## 📂 Network Technician
 
@@ -70,7 +70,7 @@ Below is a list of all Network Technician projects available in this repository.
 | :------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------------------------------- | :---------------------- |
 | | | |
 
-You can [click here](./network-technician) to see more Network Technician projects.
+You can click [here](./network-technician) to see more Network Technician projects.
 
 ---
 
